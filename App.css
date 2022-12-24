@@ -1,0 +1,43 @@
+.app{
+  margin: 50px;
+  
+}
+.search{
+  padding: 10px;
+  font-size: 20px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid black;
+  display: block;
+  margin: auto;
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(232,58,140,0.9136029411764706) 100%);
+border-radius: 0.5rem;
+margin-bottom: 3rem;
+  
+}
+.list{
+  padding: 2rem;
+  list-style: none;
+  text-align: center;
+  
+}
+
+
+table, td{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color:#444;
+  font-weight: 300;
+  
+  padding-bottom: 0.5rem;
+  padding-top: 1rem;
+  
+  text-align: center;
+ width: 90%;
+
+  
+  
+}
+
